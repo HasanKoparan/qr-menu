@@ -7,15 +7,19 @@ A responsive digital restaurant menu built with HTML, CSS, JavaScript and Bootst
 ## 📸 Screenshots
 
 
-![Uploading Ekran Resmi 2026-11-07 19.01.24.png…]()
+
 ### Menu Page
-![Menu Page](menu.png)
+<img width="1663" height="1013" alt="Ekran Resmi 2026-11-07 19 01 24" src="https://github.com/user-attachments/assets/62e97e4f-a2ea-4d79-943d-286e5960a5ca" />
+
 
 ### Product Detail Page
-![Detail Page](detail.png)
+<img width="1268" height="924" alt="Ekran Resmi 2026-11-07 19 22 34" src="https://github.com/user-attachments/assets/ca4f021e-de40-4e3a-b4ae-bda3082677d3" />
+
 
 ### Mobile View
-![Mobile View](mobile.png)
+<img width="132" height="281" alt="Ekran Resmi 2026-11-07 19 27 38" src="https://github.com/user-attachments/assets/a339983d-ff14-44b2-a626-f3b0e6c9f7d4" />
+
+
 
 ## ✨ Features
 
