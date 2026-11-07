@@ -7,13 +7,13 @@ A responsive digital restaurant menu built with HTML, CSS, JavaScript and Bootst
 ## 📸 Screenshots
 
 ### Menu Page
-![Menu Page](screenshots/menu.png)
+![Menu Page](menu.png)
 
 ### Product Detail Page
-![Detail Page](screenshots/detail.png)
+![Detail Page](detail.png)
 
 ### Mobile View
-![Mobile View](screenshots/mobile.png)
+![Mobile View](mobile.png)
 
 ## ✨ Features
 
@@ -36,7 +36,6 @@ A responsive digital restaurant menu built with HTML, CSS, JavaScript and Bootst
 ```
 qr-menu/
 ├── images/        # Product images
-├── screenshots/   # README screenshots
 ├── js/
 │   ├── api.js     # Fetches menu data
 │   ├── main.js    # Home page logic
