@@ -6,6 +6,8 @@ A responsive digital restaurant menu built with HTML, CSS, JavaScript and Bootst
 
 ## 📸 Screenshots
 
+
+![Uploading Ekran Resmi 2026-11-07 19.01.24.png…]()
 ### Menu Page
 ![Menu Page](menu.png)
 
